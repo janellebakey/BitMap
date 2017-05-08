@@ -1,0 +1,10 @@
+1. All binary operators except for the assignment operators are evaluated from left to right.
+2. Classes can be made immutable by placing a final key word before all method implementations.
+3. !(3<4&&6>6||6<=6&&7-2==6) Evaluate.
+4. A LinkedList is a list of elements that is dynamically stored.
+5. In Java, the modulus operator can only be used with variables of integer type.
+6. When using the operand && to compare two boolean expressions, both expressions are always evaluated.
+7. In an instance method or a constructor, "this" is a reference to the current object.
+8. When using a switch statement, you must always include a default case.
+9. The == operator can be used to compare two String objects.
+10. Objects of a subclass can be assigned to a super class reference.
